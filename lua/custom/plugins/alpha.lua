@@ -43,6 +43,7 @@ return {
 
     -- Colors
     LogoColors = { '#ABABAB', '#141414' }
+    -- LogoColors = { '#141414', '#ABABAB' }
     DirectoryColor = '#FFFFFF'
 
     vim.api.nvim_set_hl(0, 'AlphaLogo1', { fg = color_at_percent_gradient(LogoColors, 0.000) })
