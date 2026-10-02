@@ -5,7 +5,7 @@ return {
     require('codesnap').setup {
       bg_color = '#535c68',
       bg_padding = 0,
-      code_font_family = 'Fira Code',
+      code_font_family = 'GeistMono Nerd Font',
     }
   end,
 }
